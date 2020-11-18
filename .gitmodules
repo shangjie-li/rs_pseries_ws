@@ -1,3 +1,12 @@
 [submodule "src/rs_sdk_percept_msg_v2.0"]
 	path = src/rs_sdk_percept_msg_v2.0
 	url = https://github.com/shangjie-li/rs_sdk_percept_msg_v2.0.git
+[submodule "src/points_process"]
+	path = src/points_process
+	url = https://github.com/shangjie-li/points_process.git
+[submodule "src/points_ground_filter"]
+	path = src/points_ground_filter
+	url = https://github.com/shangjie-li/points_ground_filter.git
+[submodule "src/points_cluster"]
+	path = src/points_cluster
+	url = https://github.com/shangjie-li/points_cluster.git
