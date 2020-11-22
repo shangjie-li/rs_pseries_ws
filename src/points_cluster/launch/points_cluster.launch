@@ -6,15 +6,15 @@
         <param name="sub_topic" value="/rslidar_points_no_ground" />
         <param name="pub_topic" value="/clustered_bounding_boxes" />
         
-        <param name="min_cluster_size" value="20" />
-        <param name="max_cluster_size" value="4000" />
+        <param name="min_cluster_size" value="5" />
+        <param name="max_cluster_size" value="2000" />
         
-        <param name="oriented_rectangle_fitting_distance" value="20" />
+        <param name="oriented_rectangle_fitting_distance" value="10" />
         <param name="fitting_accuracy" value="2" />
         
         <param name="seg_num" value="5" />
         <rosparam param="seg_distance" > [15, 30, 45, 60, 75] </rosparam>
-        <rosparam param="cluster_distance" > [0.5, 1.0, 1.5, 2.0, 2.5] </rosparam>
+        <rosparam param="cluster_distance" > [0.5, 0.75, 1.0, 1.25, 1.5] </rosparam>
     </node>
 
 </launch>
