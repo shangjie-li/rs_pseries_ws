@@ -16,7 +16,7 @@
         
         <param name="local_threshold_ratio" value="0.015"/>
         <param name="min_local_threshold" value="0.1"/>
-        <param name="general_threshold_ratio" value="0.03"/>
+        <param name="general_threshold_ratio" value="0.05"/>
         <param name="min_general_threshold" value="0.2"/>
         <param name="reclass_distance" value="0.2"/>
         
