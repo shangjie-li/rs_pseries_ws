@@ -2,3 +2,6 @@
 	path = src/rs_sdk_percept_msg_v2.0
 	url = https://github.com/shangjie-li/rs_sdk_percept_msg_v2.0.git
 
+[submodule "src/ros_rslidar-develop-ruby"]
+	path = src/ros_rslidar-develop-ruby
+	url = https://github.com/shangjie-li/ros_rslidar-develop-ruby.git
